@@ -26,7 +26,7 @@ I enjoy **learning by building**, and my projects reflect my progress in masteri
 ### 🎯 Career Goals
 
 🔹 Build smart and scalable AI products  
-🔹 Land a role as a **Junior AI/ML Engineer**, **Python Developer**, or **GenAi Developer**
+🔹 Land a role as a **Junior AI/ML Engineer**, **Python Developer**, or **GenAi Developer** .
 🔹 Continuously learn, adapt, and contribute to open-source AI communities
 
 ---
@@ -68,20 +68,6 @@ Currently diving deep into:
 
 ### 🧩 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=choudaryhussainali)](https://git.io/streak-stats)
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=choudaryhussainali&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-  </a>
-</p>
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=choudaryhussainali)](https://git.io/streak-stats)
-
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=choudaryhussainali" alt="GitHub Streak" /></a>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choudaryhussainali&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
@@ -98,7 +84,6 @@ Currently diving deep into:
 ### 🔖 Repository Topics / SEO Tags
 
 
-ai-engineer
 python-developer
 streamlit-app
 flask-api
@@ -118,6 +103,7 @@ github-profile
 project-showcase
 educational-chatbot
 openai-api
+
 
 
 ---
