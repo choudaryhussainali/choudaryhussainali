@@ -68,7 +68,7 @@ Currently diving deep into:
 
 ### 🧩 GitHub Stats
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=choudaryhussainali" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=choudaryhussainali)](https://git.io/streak-stats)
 
 ---
 
