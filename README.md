@@ -2,7 +2,7 @@
 <h3 align="center">🚀 AI Enthusiast | Python Developer | Final Year BS IT Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=16A34A&center=true&vCenter=true&width=440&lines=Final+Year+BS+IT+Student;Aspiring+AI+Engineer;Building+Real-World+AI+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=16A34A&center=true&vCenter=true&width=440&lines=Final+Year+BS+IT+Student;Aspiring+AI+Engineer;Building+Real-World+AI+Projects;Python+Developer;Open-to-Work" alt="Typing SVG" />
 </p>
 
 ---
@@ -68,9 +68,7 @@ Currently diving deep into:
 
 ### 🧩 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=choudaryhussainali&theme=green" alt="Streak Stats"/>
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=choudaryhussainali" alt="GitHub Streak" /></a>
 
 ---
 
