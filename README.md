@@ -2,7 +2,7 @@
 <h3 align="center">🚀 AI Enthusiast | Python Developer | Final Year BS IT Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=16A34A&center=true&vCenter=true&width=440&lines=Final+Year+BS+IT+Student;Aspiring+AI+Engineer;Building+Real-World+AI+Projects;Python+Developer;Open-to-Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=16A34A&center=true&vCenter=true&width=440&lines=Open-to-Work;Final+Year+BS+IT+Student;Aspiring+AI+Engineer;Building+Real-World+AI+Projects;Python+Developer" alt="Typing SVG" />
 </p>
 
 ---
@@ -26,7 +26,7 @@ I enjoy **learning by building**, and my projects reflect my progress in masteri
 ### 🎯 Career Goals
 
 🔹 Build smart and scalable AI products  
-🔹 Land a role as a **Junior AI/ML Engineer**, **Python Developer**, or **GenAi Developer** \n
+🔹 Land a role as a **Junior AI/ML Engineer**, **Python Developer**, or **GenAi Developer**
 🔹 Continuously learn, adapt, and contribute to open-source AI communities
 
 ---
