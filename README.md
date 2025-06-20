@@ -26,7 +26,7 @@ I enjoy **learning by building**, and my projects reflect my progress in masteri
 ### 🎯 Career Goals
 
 🔹 Build smart and scalable AI products  
-🔹 Land a role as a **Junior AI/ML Engineer**, **Python Developer**, or **GenAi Developer** .
+🔹 Land a role as a **Junior AI/ML Engineer**, **Python Developer**, or **GenAi Developer** \n
 🔹 Continuously learn, adapt, and contribute to open-source AI communities
 
 ---
@@ -80,34 +80,6 @@ Currently diving deep into:
 - 🖥️ Portfolio: *(Coming soon)*
 
 ---
-
-### 🔖 Repository Topics / SEO Tags
-
-
-python-developer
-streamlit-app
-flask-api
-langchain
-gemini-api
-groq-chatbot
-llama3
-chatbot-project
-mcq-analyzer
-data-structures
-prompt-engineering
-ai-chat-assistant
-bsit-final-year
-student-portfolio
-humanlike-ai
-github-profile
-project-showcase
-educational-chatbot
-openai-api
-
-
-
----
-
 ### 🧠 Quote I Live By
 
 > "The best way to predict the future is to invent it." – Alan Kay
