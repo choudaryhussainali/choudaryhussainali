@@ -62,6 +62,7 @@ Currently diving deep into:
 | **Terminal AI Bot** | A terminal-based chatbot using **Groq API** and `llama-3-70b` model, that answers questions interactively and stores chat history. |
 | **MCQ Grading Bot** | AI-powered app that accepts MCQ papers in CSV/PDF format and uses **Gemini API** to analyze answers, generate results with student names, scores, and feedback. |
 | **Document Intelligence Bot** | Upload files (PDFs, images), extract text, and query using AI. Built using LangChain and HuggingFace embeddings with Streamlit frontend. |
+| **Pizza-Order-Bot** | AI-powered Pizza Order Bot built with Streamlit and Groq's LLaMA 3. The bot takes **Pizza** orders, handles delivery or pickup, summarizes the order, and responds like a human. Fast, natural, and customizable — ideal for learning chatbot integration with **LLMs** and real-time user interaction. |
 | **GitLearn** *(Coming Soon)* | AI mentor for beginners learning GitHub, APIs, and project building — inspired by my own learning journey. |
 
 ---
