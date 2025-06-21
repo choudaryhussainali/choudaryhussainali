@@ -42,6 +42,20 @@ I enjoy **learning by building**, and my projects reflect my progress in masteri
 
 ---
 
+#### 🤝 Professional & Soft Skills
+
+- ✅ Effective Communication (written + verbal)
+- 🕒 Time Management & Deadline Handling
+- 🧩 Problem-Solving & Critical Thinking
+- 🔄 Adaptability & Fast Learning
+- 👨‍👩‍👧‍👦 Team Collaboration & Coordination
+- 🧠 Creative Thinking & Innovation
+- ✍️ Documentation & Reporting
+- 🎯 Goal-Oriented and Self-Motivated
+- 🎓 Passion for Learning & Teaching Others
+
+---
+
 ### 🧠 Learning Path
 
 Currently diving deep into:
@@ -54,7 +68,7 @@ Currently diving deep into:
 
 ---
 
-### 🛠️ Projects I'm Proud Of
+### 🛠️ Projects
 
 | Project Name | Description |
 |--------------|-------------|
@@ -63,7 +77,23 @@ Currently diving deep into:
 | **MCQ Grading Bot** | AI-powered app that accepts MCQ papers in CSV/PDF format and uses **Gemini API** to analyze answers, generate results with student names, scores, and feedback. |
 | **Document Intelligence Bot** | Upload files (PDFs, images), extract text, and query using AI. Built using LangChain and HuggingFace embeddings with Streamlit frontend. |
 | **Pizza-Order-Bot** | AI-powered Pizza Order Bot built with Streamlit and Groq's LLaMA 3. The bot takes **Pizza** orders, handles delivery or pickup, summarizes the order, and responds like a human. Fast, natural, and customizable — ideal for learning chatbot integration with **LLMs** and real-time user interaction. |
-| **GitLearn** *(Coming Soon)* | AI mentor for beginners learning GitHub, APIs, and project building — inspired by my own learning journey. |
+| **GitLearnX** *(Coming Soon)* | AI mentor for beginners learning GitHub, APIs, and project building — inspired by my own learning journey. |
+
+---
+
+#### 🎓 Education
+
+**BS Information Technology**  
+*University of the Punjab*  
+📍 7th Semester | Expected Graduation: 2026
+
+---
+
+#### 🌐 Languages
+
+- English — ★★★★☆  
+- Urdu — ★★★★★  
+- Punjabi — ★★★★★  
 
 ---
 
