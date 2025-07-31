@@ -97,12 +97,15 @@ Currently diving deep into:
 
 ### 🧩 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=choudaryhussainali&show_icons=true&theme=midnight-purple)
+<div align="center">
 
+  <img src="https://github-readme-stats.vercel.app/api?username=choudaryhussainali&show_icons=true&theme=midnight-purple&count_private=true" alt="Choudary Hussain Ali's GitHub Stats" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choudaryhussainali&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</p>
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choudaryhussainali&layout=compact&theme=midnight-purple" alt="Top Languages" />
+
+</div>
 
 
 ### 📫 How to Reach Me
