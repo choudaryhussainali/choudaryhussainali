@@ -106,7 +106,7 @@ Currently diving deep into:
 
 ### 📫 How to Reach Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/choudary-hussain-ali-genai) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/ch-hussain-ali) 
 - 📧 Email: choudaryhussainali@outlook.com
 - 🖥️ Portfolio: *(Coming soon)*
 
