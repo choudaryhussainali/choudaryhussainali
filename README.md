@@ -77,8 +77,6 @@ Currently diving deep into:
 | **MCQ Grading Bot** | AI-powered app that accepts MCQ papers in CSV/PDF format and uses **Gemini API** to analyze answers, generate results with student names, scores, and feedback. |
 | **Document Intelligence Bot** | Upload files (PDFs, images), extract text, and query using AI. Built using LangChain and HuggingFace embeddings with Streamlit frontend. |
 | **Pizza-Order-Bot** | AI-powered Pizza Order Bot built with Streamlit and Groq's LLaMA 3. The bot takes **Pizza** orders, handles delivery or pickup, summarizes the order, and responds like a human. Fast, natural, and customizable — ideal for learning chatbot integration with **LLMs** and real-time user interaction. |
-| **GitLearnX** *(Coming Soon)* | AI mentor for beginners learning GitHub, APIs, and project building — inspired by my own learning journey. |
-
 ---
 
 #### 🎓 Education
