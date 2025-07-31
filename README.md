@@ -104,6 +104,8 @@ Currently diving deep into:
   <br><br>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choudaryhussainali&layout=compact&theme=midnight-purple" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choudaryhussainali&layout=compact&langs_count=5&theme=midnight-purple" alt="Top Languages" />
+
 
 </div>
 
