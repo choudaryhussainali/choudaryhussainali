@@ -70,15 +70,14 @@ Currently diving deep into:
 
 ### 🛠️ Projects
 
-| Project Name | Description |
+| 🚀 Project Name | 📝 Description |
 |--------------|-------------|
-|--------------|-------------|
-| **YSDS Chatbot** | Human-like AI assistant for **Yashfeen Skills Development Services**, built using Streamlit, Gemini API, LangChain, and custom behavior scripts. Answers user queries about 21+ courses, admissions, and more. |
-| **Terminal AI Bot** | A terminal-based chatbot using **Groq API** and `llama-3-70b` model, that answers questions interactively and stores chat history. |
-| **MCQ Grading Bot** | AI-powered app that accepts MCQ papers in CSV/PDF format and uses **Gemini API** to analyze answers, generate results with student names, scores, and feedback. |
-| **Document Intelligence Bot** | Upload files (PDFs, images), extract text, and query using AI. Built using LangChain and HuggingFace embeddings with Streamlit frontend. |
-| **Pizza-Order-Bot** | AI-powered Pizza Order Bot built with Streamlit and Groq's LLaMA 3. The bot takes **Pizza** orders, handles delivery or pickup, summarizes the order, and responds like a human. Fast, natural, and customizable — ideal for learning chatbot integration with **LLMs** and real-time user interaction. |
-| **Banking Management System** | A complete **banking web application** built with **Python**, **Streamlit**, and **JSON-based file storage**. Supports account creation, balance inquiry, deposits, withdrawals, updates, and deletion — with a user-friendly and interactive interface ideal for learning file I/O and stateful web app logic. |
+| 🤖 **YSDS Chatbot** | Human-like AI assistant for **Yashfeen Skills Development Services**, built using **Streamlit**, **Gemini API**, **LangChain**, and custom behavior scripts. Answers user queries about 21+ courses, admissions, and more. |
+| 💻 **Terminal AI Bot** | A terminal-based chatbot using **Groq API** and `llama-3-70b` model, that answers questions interactively and stores chat history. |
+| 📝 **MCQ Grading Bot** | AI-powered app that accepts MCQ papers in **CSV/PDF** format and uses **Gemini API** to analyze answers, generate results with student names, scores, and feedback. |
+| 📄 **Document Intelligence Bot** | Upload files (PDFs, images), extract text, and query using AI. Built using **LangChain**, **HuggingFace embeddings**, and a **Streamlit frontend**. |
+| 🍕 **Pizza-Order-Bot** | AI-powered Pizza Order Bot built with **Streamlit** and **Groq’s LLaMA 3**. Takes **Pizza** orders, handles delivery or pickup, summarizes the order, and responds like a human. Perfect for exploring real-time **LLM** interaction. |
+| 🏦 **Banking Management System** | A full-featured **banking web app** built with **Python**, **Streamlit**, and **JSON** storage. Handles account creation, deposits, withdrawals, updates, deletions — with a modern UI. Great for mastering file I/O and state handling. |
 ---
 
 #### 🎓 Education
