@@ -26,8 +26,9 @@ I enjoy **learning by building**, and my projects reflect my progress in masteri
 ### 🎯 Career Goals
 
 🔹 Build smart and scalable AI products  
-🔹 Land a role as a **Junior AI/ML Engineer**, **Python Developer**, or **GenAi Developer**
+🔹 Land a role as a **Junior AI/ML Engineer**, **Python Developer**, or **GenAi Developer**.   
 🔹 Continuously learn, adapt, and contribute to open-source AI communities  
+
 ---
 
 ### 📚 Technical Skills
