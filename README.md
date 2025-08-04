@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-Hi! I’m **Hussain Ali**, a passionate and curious **BS Information Technology** student at **University of the Punjab (7th Semester)**. I'm on an exciting journey to become a Professional in the world of **ARTFICIAL INTELLIGENCE**.
+Hi! I’m **Hussain Ali**, a passionate and curious **BS Information Technology** student at **University of the Punjab (7th Semester)**. I'm on an exciting journey to become a Professional in the world of **ARTIFICIAL INTELLIGENCE**.
 
 I specialize in building **real-world AI solutions** using Python, and I'm currently focused on:
 
