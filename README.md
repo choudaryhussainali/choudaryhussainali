@@ -16,7 +16,7 @@ I specialize in building **real-world AI solutions** using Python, and I'm curre
 - 🤖 **Conversational AI Chatbots**
 - 🧠 **Machine Learning & NLP**
 - 📊 **Data Structures and Algorithms**
-- 💻 **Python Programming** (Beginner to Advanced)
+- 💻 **Python Programming** (Advanced)
 - 🌐 **Streamlit, Flask, and Web-Based AI Apps**
 
 I enjoy **learning by building**, and my projects reflect my progress in mastering Python, AI tools, and frameworks like **LangChain**, **Groq API**, **Google Gemini API**, **FAISS**, and more.
