@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-Hi! I’m **Hussain Ali**, a passionate and curious **BS Information Technology** student at **University of the Punjab (7th Semester)**. I'm on an exciting journey to become a **Professional AI Engineer**.
+Hi! I’m **Hussain Ali**, a passionate and curious **BS Information Technology** student at **University of the Punjab (7th Semester)**. I'm on an exciting journey to become a Professional in the world of **ARTFICIAL INTELLIGENCE**.
 
 I specialize in building **real-world AI solutions** using Python, and I'm currently focused on:
 
@@ -72,11 +72,13 @@ Currently diving deep into:
 
 | Project Name | Description |
 |--------------|-------------|
+|--------------|-------------|
 | **YSDS Chatbot** | Human-like AI assistant for **Yashfeen Skills Development Services**, built using Streamlit, Gemini API, LangChain, and custom behavior scripts. Answers user queries about 21+ courses, admissions, and more. |
 | **Terminal AI Bot** | A terminal-based chatbot using **Groq API** and `llama-3-70b` model, that answers questions interactively and stores chat history. |
 | **MCQ Grading Bot** | AI-powered app that accepts MCQ papers in CSV/PDF format and uses **Gemini API** to analyze answers, generate results with student names, scores, and feedback. |
 | **Document Intelligence Bot** | Upload files (PDFs, images), extract text, and query using AI. Built using LangChain and HuggingFace embeddings with Streamlit frontend. |
 | **Pizza-Order-Bot** | AI-powered Pizza Order Bot built with Streamlit and Groq's LLaMA 3. The bot takes **Pizza** orders, handles delivery or pickup, summarizes the order, and responds like a human. Fast, natural, and customizable — ideal for learning chatbot integration with **LLMs** and real-time user interaction. |
+| **Banking Management System** | A complete **banking web application** built with **Python**, **Streamlit**, and **JSON-based file storage**. Supports account creation, balance inquiry, deposits, withdrawals, updates, and deletion — with a user-friendly and interactive interface ideal for learning file I/O and stateful web app logic. |
 ---
 
 #### 🎓 Education
