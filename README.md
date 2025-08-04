@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hussain Ali</h1>
-<h3 align="center">🚀 AI Enthusiast | Python Developer | IT- Undergrad</h3>
+<h3 align="center">❂ AI Enthusiast | Python Developer | IT- Undergrad ❂</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=16A34A&center=true&vCenter=true&width=440&lines=Open-to-Work;Graduating+BS+IT;Aspiring+AI+Engineer;Building+Real-World+AI+Projects;Python+Developer" alt="Typing SVG" />
