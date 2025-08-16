@@ -23,6 +23,10 @@ I enjoy **learning by building**, and my projects reflect my progress in masteri
 
 ---
 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+
+---
+
 ### 🎯 Career Goals
 
 🔹 Build smart and scalable AI products  
@@ -106,14 +110,26 @@ Currently diving deep into:
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choudaryhussainali&layout=compact&theme=midnight-purple" alt="Top Languages" />
 
+  <br><br>
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=choudaryhussainali&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
 
+### 🔝 Top Contributed Repo
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=choudaryhussainali&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
+</div>
 
 ### 📫 How to Reach Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ch-hussain-ali) 
 - 📧 Email: choudaryhussainali@outlook.com
 - 🖥️ Portfolio: *(Coming soon)*
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/choudary_hussain_ali)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ch-hussain-ali) [![email](https://img.shields.io/badge/Email-- D14836?logo=gmail&logoColor=white)](mailto:choudaryhussainali@outlook.com) 
 
 ---
 ### 🧠 Quote I Live By
