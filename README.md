@@ -119,7 +119,7 @@ Currently diving deep into:
 ### 📫 How to Reach Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ch-hussain-ali) 
-- 📧 Email: choudaryhussainali@outlook.com | [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:choudaryhussainali@outlook.com) 
+- 📧 Email: choudaryhussainali@outlook.com | [![OPEN](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:choudaryhussainali@outlook.com) 
 - 🖥️ Portfolio: *(Coming soon)*
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/choudary_hussain_ali)
 
