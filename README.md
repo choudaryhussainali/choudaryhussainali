@@ -1,7 +1,7 @@
 <img width="6336" height="1584" alt="BANNER" src="https://github.com/user-attachments/assets/e302977d-8375-4b5f-8cb1-3d3891fc42bd" />
 
 <h3 align="center">
-  <font color="yellow">❂ AI Enthusiast | Python Developer | IT- Undergrad ❂</font>
+  <font color="#FFD700">AI Enthusiast | Python Developer | IT- Undergrad</font>
 </h3>
 
 <p align="center">
