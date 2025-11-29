@@ -121,7 +121,7 @@ Currently diving deep into:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ch-hussain-ali) 
 - 📧 Email: choudaryhussainali@outlook.com 
-- 🖥️ Portfolio: *(Coming soon)*
+- 🖥️ [Portfolio](https://choudaryhussainali.online/)
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/choudary_hussain_ali)
 
 ---
