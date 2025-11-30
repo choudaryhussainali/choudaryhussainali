@@ -105,7 +105,8 @@ Currently diving deep into:
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=choudaryhussainali&show_icons=true&theme=midnight-purple&count_private=true" alt="Choudary Hussain Ali's GitHub Stats" />
+ ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=choudaryhussainali&show_icons=true&theme=midnight-purple)
+
 
   <br><br>
 
