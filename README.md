@@ -28,14 +28,6 @@ I enjoy **learning by building**, and my projects reflect my progress in masteri
 
 ---
 
-### 🎯 Career Goals
-
-🔹 Build smart and scalable AI products  
-🔹 Land a role as a **Junior AI/ML Engineer**, **Python Developer**, or **GenAi Developer**.   
-🔹 Continuously learn, adapt, and contribute to open-source AI communities  
-
----
-
 ### 📚 Technical Skills
 
 - **Languages:** Python, HTML, CSS, JavaScript (basic)
@@ -61,17 +53,6 @@ I enjoy **learning by building**, and my projects reflect my progress in masteri
 
 ---
 
-### 🧠 Learning Path
-
-Currently diving deep into:
-
-- 🔁 Python Iterators, Generators, `itertools`
-- 📚 Data Structures & Algorithms (with real-world examples)
-- 🧠 Applied AI: Chatbots, NLP, and ML Concepts
-- 🔧 Deployment with Flask and Streamlit
-- 🗂️ GitHub Project Management & Documentation
-
----
 
 ### 🛠️ Projects
 
