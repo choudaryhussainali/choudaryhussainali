@@ -91,10 +91,6 @@ I enjoy **learning by building**, and my projects reflect my progress in masteri
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choudaryhussainali&layout=compact&theme=midnight-purple" alt="Top Languages" />
-
-  <br><br>
-
 ![](https://github-contributor-stats.vercel.app/api?username=choudaryhussainali&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 
 </div>
