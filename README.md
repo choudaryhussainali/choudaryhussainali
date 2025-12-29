@@ -98,7 +98,7 @@ I enjoy **learning by building**, and my projects reflect my progress in masteri
 ### 📫 How to Reach Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ch-hussain-ali) 
-- 📧 choudaryhussainali@outlook.com 
+- 📧 contact@choudaryhussainali.online
 - 🖥️ [Portfolio](https://choudaryhussainali.online/)
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/choudary_hussain_ali)
 
