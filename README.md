@@ -40,10 +40,6 @@ I started building in 2022, ran paid client work and my degree in parallel, and 
 
 ---
 
-
-<img width="3200" height="792" alt="banner" src="https://github.com/user-attachments/assets/ffea8d58-7e8b-4cb2-8faa-e05e3424ee83" />
-
-
 ### 🚀 Featured work
 
 **🏆 Glovino — custom Shopify store** *(client build)*  
@@ -158,6 +154,9 @@ Plus booking systems (SalonStudio, Royale), T-Bridge Finance, jewellery and beau
 - **Advanced Python Programming & Applications** · Yashfeen Skills Development Services · Feb – May 2025 · three-month intensive: advanced Python, DSA, project-based delivery
 
 ---
+
+<img width="3200" height="792" alt="banner" src="https://github.com/user-attachments/assets/ffea8d58-7e8b-4cb2-8faa-e05e3424ee83" />
+
 
 ### 🤝 Beyond the code
 
