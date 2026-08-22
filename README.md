@@ -23,7 +23,11 @@ RAG pipelines, memory-enabled chatbots, and document intelligence on LangChain, 
 </p>
 
 <p align="center">
-<b>4+ years building</b> · <b>50+ projects delivered</b> · <b>17 live client sites</b> · <b>PKR 1M+ client revenue driven</b> · <b>mobile LCP &lt; 2.5s</b>
+<img src="https://img.shields.io/badge/Years%20Building-4%2B-16A34A?style=for-the-badge" alt="4+ years building" />
+<img src="https://img.shields.io/badge/Projects%20Delivered-50%2B-16A34A?style=for-the-badge" alt="50+ projects delivered" />
+<img src="https://img.shields.io/badge/Live%20Client%20Sites-17-16A34A?style=for-the-badge" alt="17 live client sites" />
+<img src="https://img.shields.io/badge/Client%20Revenue-PKR%201M%2B-16A34A?style=for-the-badge" alt="PKR 1M+ client revenue driven" />
+<img src="https://img.shields.io/badge/Mobile%20LCP-%3C2.5s-16A34A?style=for-the-badge" alt="Mobile LCP under 2.5 seconds" />
 </p>
 
 ---
@@ -75,17 +79,16 @@ Self-directed and paid client work run in parallel with the degree — the origi
 
 | Category | Technologies |
 |---|---|
-| **Languages** | Python (advanced) · JavaScript · Liquid · SQL · HTML5 · CSS3 · C · C++ |
-| **E-commerce** | Shopify · Shopify Plus · WooCommerce |
-| **CMS** | WordPress |
-| **AI / LLM** | LangChain · OpenAI · Google Gemini (incl. 1.5 Flash Vision) · Groq · LLaMA 3 / 3.3-70B · Hugging Face |
-| **Vector & retrieval** | FAISS · Hugging Face embeddings · Pinecone (foundational) |
-| **App frameworks** | Streamlit · Flask · Gradio · Tkinter |
-| **Data & processing** | Pandas · NumPy · Matplotlib · PIL · JSON pipelines |
-| **Databases & storage** | MySQL · JSON-based persistence |
-| **Deployment** | Vercel · Streamlit Cloud · GitHub Pages · Shopify |
-| **Tools** | Git · GitHub · VS Code · Google Colab · Jupyter Notebook · Canva |
-| **Core concepts** | OOP · Data Structures & Algorithms · REST API design · prompt engineering · LLMOps · Core Web Vitals · SEO-oriented structure · Cisco networking fundamentals |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Liquid](https://img.shields.io/badge/Liquid-7AB55C?style=for-the-badge&logo=shopify&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) |
+| **E-commerce & CMS** | ![Shopify Plus](https://img.shields.io/badge/Shopify%20Plus-95BF47?style=for-the-badge&logo=shopify&logoColor=white) ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) |
+| **AI / LLM** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge) ![LLaMA 3](https://img.shields.io/badge/LLaMA%203-0866FF?style=for-the-badge&logo=meta&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) |
+| **Vector & Retrieval** | ![FAISS](https://img.shields.io/badge/FAISS-3B82F6?style=for-the-badge) ![HF Embeddings](https://img.shields.io/badge/HF%20Embeddings-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Pinecone](https://img.shields.io/badge/Pinecone%20%28basics%29-121212?style=for-the-badge) |
+| **App Frameworks** | ![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-306998?style=for-the-badge) |
+| **Data & Processing** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) ![Pillow](https://img.shields.io/badge/Pillow%20%28PIL%29-5C6BC0?style=for-the-badge) |
+| **Databases & Storage** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) |
+| **Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Streamlit Cloud](https://img.shields.io/badge/Streamlit%20Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white) ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) |
+| **Core Concepts** | `OOP` · `DSA` · `REST API design` · `Prompt Engineering` · `LLMOps` · `Core Web Vitals` · `SEO structure` · `Cisco networking fundamentals` |
 
 ---
 
@@ -160,12 +163,6 @@ Plus booking systems (SalonStudio, Royale), T-Bridge Finance, jewellery and beau
 - 📐 **How I work:** documented handoffs for non-technical owners, a reply within 24 hours, and learning by building
 
 ---
-
-<div align="center">
-
-![Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=choudaryhussainali&show_icons=true&theme=nightowl&hide_border=true)
-
-</div>
 
 ### 📫 Reach me
 
