@@ -1,4 +1,5 @@
-<img src="https://github.com/user-attachments/assets/e302977d-8375-4b5f-8cb1-3d3891fc42bd" alt="Choudary Hussain Ali — Senior Shopify Developer, Full-Stack Engineer, AI/LLM Builder" width="100%" />
+<img width="3200" height="792" alt="banner" src="https://github.com/user-attachments/assets/ffea8d58-7e8b-4cb2-8faa-e05e3424ee83" alt="Choudary Hussain Ali — Senior Shopify Developer, Full-Stack Engineer, AI/LLM Builder" width="100%" />
+
 
 <h1 align="center">Choudary Hussain Ali</h1>
 
@@ -154,9 +155,7 @@ Plus booking systems (SalonStudio, Royale), T-Bridge Finance, jewellery and beau
 - **Advanced Python Programming & Applications** · Yashfeen Skills Development Services · Feb – May 2025 · three-month intensive: advanced Python, DSA, project-based delivery
 
 ---
-
-<img width="3200" height="792" alt="banner" src="https://github.com/user-attachments/assets/ffea8d58-7e8b-4cb2-8faa-e05e3424ee83" />
-
+<img src="https://github.com/user-attachments/assets/e302977d-8375-4b5f-8cb1-3d3891fc42bd" alt="Choudary Hussain Ali — Senior Shopify Developer, Full-Stack Engineer, AI/LLM Builder" width="100%" />
 
 ### 🤝 Beyond the code
 
